@@ -1,3 +1,3 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+### Welcome
+This is a GPT3 wrapper that prompts it to answer as Jesus would.
+yarn dev launches the site.
